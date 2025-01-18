@@ -44,6 +44,7 @@ export default function Home() {
           >
             Read our docs
           </a>
+          <p>This app is now containerized using Docker.</p>
         </div>
       </main>
       <footer className={styles.footer}>
